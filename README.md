@@ -13,6 +13,7 @@ Orcid: https://orcid.org/0000-0002-7327-8543
 
 Curriculum Vitae: https://bit.ly/3agA4Ir
 
+
 <b> Education </b>
 
 <b> 2020: </b> Doctor of Philosophy (Physics), Sakon Nakhon Rajabhat University, Thailand
@@ -23,6 +24,7 @@ Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/25
 
 <b> 2014: </b> Bachelor degree (Physics), Sakon Nakhon Rajabhat University, Thailand
 
+
 <b> Experience </b>
 
 <b> 2019 – Present (2024) </b> Research Project Manager, High-Performance Computing Research Unit (CECC-HCU), Center of Excellence on Catalysis and Catalytic Reaction Engineering (CECC), Chulalongkorn University, Bangkok, Thailand
@@ -30,6 +32,7 @@ Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/25
 <b> July 2018 – January 2019 </b> Research Student, Department of Applied Physics, Graduate School of Engineering, Osaka University, Osaka, Japan 
 
 <b> 2010 – 2019 </b> Head of Lab, Simulation Research Laboraty (SRL), Center of Excellence on Alternative Energy (CEAE), Sakon Nakhon Rajabhat University, Sakon Nakhon, Thailand
+
 
 <b> Computational Skills </b>
 
@@ -46,6 +49,7 @@ Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/25
 - Computational hydrogen electrode for electrocatalytic reaction
 
 - Computational study on thermoelectric properties
+
 
 <b> Selected Publications (from 50+ in SCOPUS) </b>
 
@@ -68,6 +72,7 @@ Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/25
 9.	Rittiruam et al., A computational-experimental investigation on high ethylene selectivity in ethanol dehydration reaction found on WOx/ZrO2-activated carbon bi-support systems, Scientific Reports, 2019, 9, 19738. (Tier1) 
 
 10.	Rittiruam et al., La/Sm/Er cation doping induced thermal properties of SrTiO3, Inorganic Chemistry, 2016, 55, 8822-8826. (Tier1 & Nature Index)
+
 
 <b> Journal Reviewers </b>
  
