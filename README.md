@@ -18,7 +18,7 @@ Curriculum Vitae: https://bit.ly/3agA4Ir
 
 <b> 2020: </b> Doctor of Philosophy (Physics), Sakon Nakhon Rajabhat University, Thailand
 
-Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/2558)
+Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/2558) (โครงการปริญญาเอกกาญจนาภิเษก)
 
 <b> 2016: </b> Master degree of Science (Physics), Sakon Nakhon Rajabhat University, Thailand
 
