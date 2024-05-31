@@ -1,5 +1,5 @@
 # MeenaRittiruamCurriculumVitae
-Meena Rittiruam, Ph.D. 
+<b> Meena Rittiruam, Ph.D. </b>
 
 E-mail: mrittiruam@gmail.com
 
@@ -14,6 +14,7 @@ Orcid: https://orcid.org/0000-0002-7327-8543
 Curriculum Vitae: https://bit.ly/3agA4Ir
 
 <b> Education </b>
+
 2020: Doctor of Philosophy (Physics), Sakon Nakhon Rajabhat University, Thailand
 
 Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/2558)
