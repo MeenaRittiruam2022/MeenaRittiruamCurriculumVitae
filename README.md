@@ -19,7 +19,6 @@ Curriculum Vitae: https://bit.ly/3agA4Ir
 Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/2558)
 
 2016: Master degree of Science (Physics), Sakon Nakhon Rajabhat University, Thailand
-
 2014: Bachelor degree (Physics), Sakon Nakhon Rajabhat University, Thailand
 
 
