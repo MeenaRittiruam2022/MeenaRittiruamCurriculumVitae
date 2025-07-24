@@ -12,6 +12,10 @@ ResearchGate: https://www.researchgate.net/profile/Meena_Rittiruam
 
 Orcid: https://orcid.org/0000-0002-7327-8543   
 
+<b> RESEARCH STATEMENT </b>
+Dr. Meena Rittiruam works as a lecturer at Walailak University, Thailand. Possessing over a decade of experience in computational materials science, he is a physicist with expertise in density functional theory (DFT) computations pertaining to catalysts and catalytic reactions. His exceptional proficiency is in employing machine learning to expedite DFT screening of catalyst materials, especially for high-entropy alloy catalysts. He is presently concentrating on the design catalysts for several electrocatalytic reactions, including hydrogen evolution (HER), oxygen reduction (ORR), oxygen evolution (OER), carbon dioxide reduction (CO2RR), nitrogen reduction (NRR), and more. He possesses over 60 research articles in SCOPUS, including more than 40 papers in Tier 1 (top 10% or percentile 90+) journals, 3 papers in Q1, and 1 paper in Nature Index journal. He attained a maximum impact factor of 31.6 (Materials Science and Engineering: R: Reports, 2024, 160, 100813). Furthermore, he serves as a journal reviewer for Elsevier, IOP, Taylor & Francis Online, Wiely, and Thai-Journal Citation Index Centre (TCI), and a guest editor of Molecular Catalysis (Elsevier).
+
+
 
 <b> Education </b>
 
