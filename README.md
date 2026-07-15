@@ -39,7 +39,9 @@ Scholarship: The Royal Golden Jubilee (RGJ) Ph.D. Program (Grant No. PHD/0195/25
 <b> 2010 – 2019 </b> Head of Lab, Simulation Research Laboraty (SRL), Center of Excellence on Alternative Energy (CEAE), Sakon Nakhon Rajabhat University, Sakon Nakhon, Thailand
 
 <b> Computational Skills </b>
+
 •	Density Functional Theory (DFT): quantum ESPRESSO, VASP, Wien2k, and CASTEP in Material Studio, Akai-KKR for Thermoelectric materials, Catalysts, and Material Sciences as Bulk and Surface systems.
+
 •	DFT post-process: BoltzTraP, BoltzTraP2, Phonopy, Phono3py, GIBBs, CPLAP
 
 <b> PUBLICATIONS </b> (SCOPUS)
